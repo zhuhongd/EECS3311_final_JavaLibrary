@@ -28,3 +28,17 @@ Version Control: Git was used to manage project versions and collaboration among
 
 On the "Welcome" screen, click "Get from VCS." Paste `https://github.com/MishaKhvatov/YULibraryApp` into the "URL" field
 and click "Clone."
+
+**How to Use**
+User Registration: Create an account by providing a unique email and strong password.
+Login: Log in with your credentials to access the system's features.
+Renting Books: Search for available books and manage your rentals directly through the system.
+Accessing Online Content: Use the system to read online books or subscribe to newsletters.
+Management Features: For authorized personnel, manage the inventory, enable or disable items, and track user interactions.
+
+**Contributions**
+Hongda Zhu: Led the design and development of use case diagrams, class diagrams, and sequence diagrams. Also wrote the majority of the code, ensuring the implementation aligned with the system design.
+Sheheryar Hassan: Focused on creating activity diagrams and modeling system interactions, providing a clear visual representation of user workflows.
+Michael Khvatov: Assisted in the design and implementation of the system architecture, contributing to the overall structure and functionality.
+Hamad Iqbal: Worked on user interaction design and system flow, ensuring a seamless and intuitive user experience.
+Ziyan Zhang: Contributed to data handling and backend development, ensuring efficient data management and integration within the system.
