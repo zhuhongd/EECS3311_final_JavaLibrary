@@ -1,10 +1,28 @@
 # YULibraryApp
 
-# IntelliJ IDEA Setup
+**Overview**
 
-## Launch
+This project involves designing a comprehensive library management system for York University. The system is intended to manage book rentals, track overdue items, facilitate online subscriptions, and handle various user roles including students, faculty, and library management. The project focuses on translating user requirements into a robust and scalable Java-based software solution.
 
-Start IntelliJ IDEA. If not installed, download from [JetBrains](https://www.jetbrains.com/idea/download/).
+**Project Structure**
+- Use Case Diagrams: These diagrams map out the interactions between users (students, faculty, non-faculty staff) and the library management system.
+- Activity Diagrams: Detailed breakdowns of user actions, illustrating the step-by-step processes involved in interacting with the system.
+- Sequence Diagrams: Visual representations of the flow of events within the system, showing how different components interact over time.
+- Class Diagram: The structural blueprint of the system, detailing the classes, attributes, methods, and relationships necessary for the system’s architecture.
+- 
+**Features**
+- User Registration: Allows students, faculty, and non-faculty staff to register and access the system.
+- Book Rentals and Returns: Facilitates the rental of physical items and manages overdue penalties.
+- Online Book Access: Provides access to virtual copies of textbooks for the duration of a course.
+- Subscription Management: Allows users to subscribe to and manage online newsletters.
+- Search and Recommendations: Implements a search feature that suggests books based on text similarity.
+- Course and Textbook Tracking: For faculty, the system tracks courses and notifies them of new textbook editions.
+
+**Technologies Used**
+
+Java: The primary programming language used to implement the system.
+UML Diagrams: Used for system modeling and design.
+Version Control: Git was used to manage project versions and collaboration among team members.
 
 ## Clone Repository
 
